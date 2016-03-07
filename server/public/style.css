@@ -184,12 +184,12 @@ body, body * {
     transform: rotate(-55deg)
 }
 
-body:hover .learn-more-button:before {
+body:hover .go-button:before {
     top: -50px;
     left: 0
 }
 
-body:hover .learn-more-button {
+body:hover .go-button {
     -webkit-box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.2)
